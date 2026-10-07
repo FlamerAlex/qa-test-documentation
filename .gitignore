@@ -1,0 +1,5 @@
+# Temporary Office files
+~$*.xlsx
+
+# Keep original course exports private until they are reviewed
+*-raw.xlsx
